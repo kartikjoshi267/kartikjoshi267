@@ -6,6 +6,7 @@
 ## 🚀 About Me
 A passionate learner. Want to learn every new and trending technology.
 A Full Stack Web Developer (especially, MERN Stack).
+![Visit my website](https://kartik-personal-portfolio.herokuapp.com/)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-joshi-364b59225/)
