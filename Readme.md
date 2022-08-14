@@ -1,5 +1,6 @@
 
 # Hi, I'm Kartik Joshi! 👋
+Check out my portfolio at [https://kartik-personal-portfolio.herokuapp.com/](https://kartik-personal-portfolio.herokuapp.com/)
 
 [![Stats](https://github-stats-alpha.vercel.app/api?username=kartikjoshi267 "Stats")](https://github-stats-alpha.vercel.app/api?username=kartikjoshi267 "Stats")
 
