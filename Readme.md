@@ -14,7 +14,7 @@ A Full Stack Web Developer (especially, MERN Stack).
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongo,flutter,react,py,c,cpp,java)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongo,flutter,react,py,c,cpp,java,flask)]()
 ##  Top Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikjoshi267&layout=compact)](https://github.com/kartikjoshi267/github-readme-stats)
 
