@@ -72,6 +72,15 @@
 
 ![Snake animation](https://github.com/kartikjoshi267/kartikjoshi267/blob/output/github-contribution-grid-snake.svg)
 
+
+<h3>My Leetcode Stats:</h3>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/kartikjoshi267?ext=heatmap)
+
+<h3>My GeeksForGeeks Stats:</h3>
+
+[![Kartik's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kartikjoshi267)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 <!-- 
 # Hi, I'm Kartik Joshi! 👋
 Check out my portfolio at [https://kartik-personal-portfolio.herokuapp.com/](https://kartik-personal-portfolio.herokuapp.com/)
