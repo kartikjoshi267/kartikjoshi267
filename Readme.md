@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kartik Joshi</h1>
+<h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" /></h1>
 <h3 align="center">A passionate learner. Want to learn every new and trending technology. A Full Stack Web Developer (especially, MERN Stack).</h3>
+
+<b>
+   <ul>
+      <li>👂 My name is Kartik Joshi </li>
+      <li> 🌱 I’m currently learning DevOps </li>
+      <li> 📫 How to reach me: <a target="_blank" href="https://linkedin.com/in/kartik-joshi-364b59225">Linkedin</a> </li>
+      <li> ❤️ I love Open Source Contribution </li>
+      <li> ⚡ Fun fact: <i>Why did the Java developer teach his young kids about single quotes? 🤔 Because they build character. 😂</i> </li>
+   </ul>
+</b>
 
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=kartikjoshi267&label=Profile%20views&color=0e75b6&style=flat" alt="kartikjoshi267" />
@@ -52,11 +62,15 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/education-set-3-3/74/15-512.png" alt="react" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<h3 align="left">My GitHub History:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikjoshi267&show_icons=true&locale=en&layout=compact" alt="kartikjoshi267" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikjoshi267&show_icons=true&locale=en" alt="kartikjoshi267" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikjoshi267&" alt="kartikjoshi267" /></p>
+
+![Snake animation](https://github.com/kartikjoshi267/kartikjoshi267/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
 # Hi, I'm Kartik Joshi! 👋
