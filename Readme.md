@@ -1,12 +1,13 @@
-<h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" /></h1>
+<h1 align="center">Hey Everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" /></h1>
 <h3 align="center">A passionate learner. Want to learn every new and trending technology. A Full Stack Web Developer (especially, MERN Stack).</h3>
 
 <b>
    <ul>
-      <li>👂 My name is Kartik Joshi </li>
+      <li> 👂 My name is Kartik Joshi </li>
       <li> 🌱 I’m currently learning DevOps </li>
       <li> 📫 How to reach me: <a target="_blank" href="https://linkedin.com/in/kartik-joshi-364b59225">Linkedin</a> </li>
       <li> ❤️ I love Open Source Contribution </li>
+      <li> 🚀 I have participated in <i>Hacktoberfest</i> and <i>GSSOC'23</i>. </li>
       <li> ⚡ Fun fact: <i>Why did the Java developer teach his young kids about single quotes? 🤔 Because they build character. 😂</i> </li>
    </ul>
 </b>
