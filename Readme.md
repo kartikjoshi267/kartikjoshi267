@@ -24,6 +24,7 @@
 - 📫 How to reach me **kartikjoshi267@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<hr />
 <p align="left">
 <a href="https://twitter.com/kartikj74422563" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="kartikj74422563" height="30" width="40" /></a>
 &nbsp;
@@ -40,6 +41,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+<hr />
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40"/> </a>
@@ -64,7 +66,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <h3 align="left">My GitHub History:</h3>
-
+<hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikjoshi267&show_icons=true&locale=en&layout=compact" alt="kartikjoshi267" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikjoshi267&show_icons=true&locale=en" alt="kartikjoshi267" /></p>
@@ -74,9 +76,11 @@
 <p><img align="center" src="https://github.com/kartikjoshi267/kartikjoshi267/blob/output/github-contribution-grid-snake.svg" alt="snake animation"></p>
 
 <h3>My Leetcode Stats:</h3>
+<hr />
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kartikjoshi267?ext=heatmap)
 
 <h3>My GeeksForGeeks Stats:</h3>
+<hr />
 
 [![Kartik's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kartikjoshi267)](https://github.com/napiyo/geeksForGeeksStatsAPI)
