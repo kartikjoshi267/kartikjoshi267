@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikjoshi267" alt="kartikjoshi267" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kartikjoshi267.vercel.app](https://portfolio-kartikjoshi267.vercel.app)
+- 👨‍💻 All of my projects are available at [https://new-portfolio-liart-ten.vercel.app](https://new-portfolio-liart-ten.vercel.app)
 
 - 📫 How to reach me **kartikjoshi267@gmail.com**
 
