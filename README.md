@@ -73,14 +73,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikjoshi267&" alt="kartikjoshi267" /></p>
 
-<p><img align="center" src="https://github.com/kartikjoshi267/kartikjoshi267/blob/output/github-contribution-grid-snake.svg" alt="snake animation"></p>
-
 <h3>My Leetcode Stats:</h3>
 <hr />
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kartikjoshi267?ext=heatmap)
-
-<h3>My GeeksForGeeks Stats:</h3>
-<hr />
-
-[![Kartik's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kartikjoshi267)](https://github.com/napiyo/geeksForGeeksStatsAPI)
